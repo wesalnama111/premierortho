@@ -1177,6 +1177,8 @@ color: #0912CD;
     .section-4 .row-tag{
         width:100%;
         display:flex;
+        justify-content: center;
+        margin-top: -21px;
     }
     .section-4 .button-one{
         justify-content: space-between;
@@ -1256,6 +1258,7 @@ color: #0912CD;
         width:100%;
         display:flex;
         justify-content: center;
+        margin-top:-21px;
     }
     .section-7 .button-one p{
         font-size: 9px;
@@ -1436,6 +1439,8 @@ color: #0912CD;
     .section-4 .row-tag{
         width:100%;
         display:flex;
+        justify-content: center;
+        margin-top: -21px;
     }
     .section-4 .button-one{
         justify-content: space-between;
@@ -1506,6 +1511,7 @@ color: #0912CD;
 
     /*section-6:END*/
     /*section-7 AND 8:START*/
+
     .section-7 .col-12{
         margin-top:0px;
 
@@ -1515,6 +1521,7 @@ color: #0912CD;
         width:100%;
         display:flex;
         justify-content: center;
+        margin-top: -21px;
     }
     .section-7 .button-one p{
         font-size: 9px;
@@ -1615,7 +1622,7 @@ color: #0912CD;
         padding: 23px 15px;
     }
     .section-1 .row .col-12 .needs-width{
-        width: 94%;
+        width: 70%;
     }
     .section-1 .needs-width .p-tag p{
         font-size: 12px;
@@ -1643,7 +1650,7 @@ color: #0912CD;
         max-width: 100%;
     }
     .section-2 .col-8 .section2-afterimage{
-        font-size: 11px;
+        font-size: 16px;
         padding-left: 0%;
         padding-top: 7%;
     }
@@ -1651,8 +1658,8 @@ color: #0912CD;
         margin-right: 0%;
         margin-top: 4%;
         margin-bottom: -19px;
-        margin-left: 0px;
-        width: 60%;
+        margin-left: 23%;
+        width: 44%;
         font-size: 11px;
     }
 
@@ -1695,13 +1702,17 @@ color: #0912CD;
     .section-4 .col-12{
         margin-top:0px;
     }
-
+    .section-4{
+        margin-top: -22px;
+        width:65%;
+    }
     .section-4 .row-tag{
         width:100%;
         display:flex;
+        justify-content: center;
     }
     .section-4 .button-one{
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
     .section-4 .button-one p{
         font-size: 11px;
@@ -1769,6 +1780,10 @@ color: #0912CD;
 
     /*section-6:END*/
     /*section-7 AND 8:START*/
+    .section-7{
+        width:65%;
+        margin-top: -22px;
+    }
     .section-7 .col-12{
         margin-top:0px;
 
@@ -1850,8 +1865,545 @@ color: #0912CD;
 
 
 }
-@media (max-width: 1023px) and (min-width: 992px) { }
-@media (max-width: 1199px) and (min-width: 1024px) { }
+@media (max-width: 1023px) and (min-width: 992px) {
+    .container{
+        width: 100%!important;
+    }
+    .custom-container{
+        width: 100%!important;
+    }
+    /*.left-attached-buttons:START*/
+    .left-attached-buttons{
+        display: none;
+    }
+    /*.left-attached-buttons:END*/
+    /*section-1:START*/
+    .section-1 .for-flex .for-bottom-border h1{
+        font-size: 19px;
+    }
+    .section-1 .for-flex h1{
+        font-size: 24px;
+    }
+    .section-1 .needs-width .p-tag:last-child{
+        margin-left: 10px;
+        margin-top: 0px;
+        padding: 23px 15px;
+    }
+    .section-1 .needs-width .p-tag:first-child{
+        padding: 23px 15px;
+    }
+    .section-1 .row .col-12 .needs-width{
+        width: 70%;
+    }
+    .section-1 .needs-width .p-tag p{
+        font-size: 12px;
+    }
+    /*section-1:END*/
+    /*section-2:START*/
+    .section-2 .row{
+
+    }
+    .section-2 .col-4 {
+        padding: 0 0;
+        width: 100%;
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+    }
+    .section-2 .col-4 img {
+        margin-top: -10px;
+        width: 100%;
+    }
+    .section-2 .col-8{
+        height:100%;
+        width: 100%;
+        max-width: 100%;
+    }
+    .section-2 .col-8 .section2-afterimage{
+        font-size: 16px;
+        padding-left: 0%;
+        padding-top: 7%;
+    }
+    .section-2 .col-8 .inside-pspan{
+        margin-right: 0%;
+        margin-top: 4%;
+        margin-bottom: -19px;
+        margin-left: 23%;
+        width: 44%;
+        font-size: 11px;
+    }
+
+    /*section-2:END*/
+    /*section-3:START*/
+    .section-3 {
+        height: AUTO;
+        MARGIN-BOTTOM: 50px;
+    }
+    .section-3 .row:first-child{
+        display: flex;
+        justify-content: center;
+    }
+    .section-3 .row:nth-child(2) .col-sm-7,
+    .section-3 .row:nth-child(2) .col-sm-5{
+        max-width: 100%;
+        width: 100%;
+        display: -webkit-inline-box;
+        flex: 1;
+        padding:0px;
+
+    }
+    .section-3 .col-one h2{
+        font-size: 14.6px;
+
+    }
+    .section-3 .col-one p{
+        font-size: 10.5px;
+        width: 100%;
+    }
+    .section-3 .col-one{
+        justify-content: flex-start;
+    }
+    .section-3 .row .header-prog{
+        margin: 50px 0;
+        font-size: 39px;
+    }
+    /*section-3:END*/
+    /*section-4 and 5:START*/
+    .section-4 .col-12{
+        margin-top:0px;
+    }
+    .section-4{
+        margin-top: -22px;
+        width:65%;
+    }
+    .section-4 .row-tag{
+        width:100%;
+        display:flex;
+        justify-content: center;
+    }
+    .section-4 .button-one{
+        justify-content: space-evenly;
+    }
+    .section-4 .button-one p{
+        font-size: 11px;
+    }
+    .section-4 .button-two{
+        justify-content: space-between;
+    }
+    .section-4 .button-two p{
+        font-size: 11px;
+    }
+    .section-4 .button-two{
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .section-5 .make-center .text-4{
+        padding: 57px 0px 0px 0px;
+        margin-bottom: 0px;
+        font-size: 15px;
+
+    }
+    .section-5 .make-center .text-four:last-child{
+
+        font-size: 23px;
+
+        margin-bottom: 0px;
+        padding: 2px 0px 127px 0px;
+    }
+    /*section-4 and 5:END*/
+    /*section-6:START*/
+    .section-6 .col-one:last-child {
+        padding-right: 0px;
+        MARGIN-BOTTOM: 53px;
+    }
+    .section-6{
+        height:100%;
+        padding-bottom: 30px;
+    }
+    .section-6 .container{
+        height:100%;
+    }
+    .section-6 .row .header-prog{
+        font-size: 25px;
+        margin: 49px 0px;
+    }
+    .section-6 .row {
+        display: flex;
+        justify-content: center;
+    }
+    .section-6 .col-one:not(:first-child){
+        margin-top: 0px;
+    }
+    .section-6 .col-one img {
+
+    }
+    .section-6 .col-one h2{
+        font-size: 14.6px;
+    }
+    .section-6 .col-one p{
+        font-size: 10.5px;
+    }
+    .section-6 .row:nth-child(2) .col-sm-2{
+        flex: 0 0 29.66667%;
+        max-width: 33.33333%;
+    }
+
+    /*section-6:END*/
+    /*section-7 AND 8:START*/
+    .section-7{
+        width:65%;
+        margin-top: -22px;
+    }
+    .section-7 .col-12{
+        margin-top:0px;
+
+    }
+
+    .section-7 .row-tag{
+        width:100%;
+        display:flex;
+        justify-content: center;
+    }
+    .section-7 .button-one p{
+        font-size: 9px;
+    }
+    .section-7 .button-two p{
+        font-size: 9px;
+    }
+    .section-7 .button-two{
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .section-7 .button-one{
+        margin-left: 0px;
+    }
+    .section-8 .make-center .text-4{
+        padding: 57px 0px 0px 0px;
+        margin-bottom: 0px;
+        font-size: 15px;
+
+    }
+    .section-8 .make-center .text-four:last-child{
+
+        font-size: 23px;
+
+        margin-bottom: 0px;
+        padding: 2px 0px 127px 0px;
+    }
+    /*section-7 AND 8:END*/
+    /*section-9:START*/
+    .section-9{
+        height:100%;
+        padding-bottom:9%;
+    }
+    .section-9 .container{
+        height:100%;
+    }
+    .section-9 .row .header-prog{
+        font-size: 25px;
+        margin: 49px 0px;
+    }
+    .section-9 .row:nth-child(2) .col-sm-2{
+        flex: 0 0 29.66667%;
+        max-width: 33.33333%;
+    }
+    .section-9 .row {
+        display: flex;
+        justify-content: center;
+    }
+    .section-9 .col-one:not(:first-child){
+
+    }
+    .section-9 .col-one img {
+
+    }
+    .section-9 .col-one h2{
+
+    }
+    /*section-9:END*/
+    /*section-10:START*/
+    .section-10 .container .row {
+        width: 58%;
+    }
+    .section-10 .container .row .col-12{
+        padding: 22px 4px;
+    }
+    .section-10 .container .row .col-12 p{
+        font-size: 8px;
+    }
+    /*section-10:END*/
+
+}
+@media (max-width: 1199px) and (min-width: 1024px) {
+    .container{
+    width: 100%!important;
+}
+    .custom-container{
+        width: 100%!important;
+    }
+    /*.left-attached-buttons:START*/
+    .left-attached-buttons{
+        display: none;
+    }
+    /*.left-attached-buttons:END*/
+    /*section-1:START*/
+    .section-1 .for-flex .for-bottom-border h1{
+        font-size: 19px;
+    }
+    .section-1 .for-flex h1{
+        font-size: 24px;
+    }
+    .section-1 .needs-width .p-tag:last-child{
+        margin-left: 10px;
+        margin-top: 0px;
+        padding: 23px 15px;
+    }
+    .section-1 .needs-width .p-tag:first-child{
+        padding: 23px 15px;
+    }
+    .section-1 .row .col-12 .needs-width{
+        width: 70%;
+    }
+    .section-1 .needs-width .p-tag p{
+        font-size: 12px;
+    }
+    /*section-1:END*/
+    /*section-2:START*/
+    .section-2 .row{
+
+    }
+    .section-2 .col-4 {
+        padding: 0 0;
+        width: 100%;
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items:center;
+    }
+    .section-2 .col-4 img {
+        margin-top: -10px;
+        width: 100%;
+    }
+    .section-2 .col-8{
+        height:100%;
+        width: 100%;
+        max-width: 100%;
+    }
+    .section-2 .col-8 .section2-afterimage{
+        font-size: 16px;
+        padding-left: 0%;
+        padding-top: 7%;
+    }
+    .section-2 .col-8 .inside-pspan{
+        margin-right: 0%;
+        margin-top: 4%;
+        margin-bottom: -19px;
+        margin-left: 23%;
+        width: 44%;
+        font-size: 11px;
+    }
+
+    /*section-2:END*/
+    /*section-3:START*/
+    .section-3 {
+        height: AUTO;
+        MARGIN-BOTTOM: 50px;
+    }
+    .section-3 .row:first-child{
+        display: flex;
+        justify-content: center;
+    }
+    .section-3 .row:nth-child(2) .col-sm-7,
+    .section-3 .row:nth-child(2) .col-sm-5{
+        max-width: 100%;
+        width: 100%;
+        display: -webkit-inline-box;
+        flex: 1;
+        padding:0px;
+
+    }
+    .section-3 .col-one h2{
+        font-size: 14.6px;
+
+    }
+    .section-3 .col-one p{
+        font-size: 10.5px;
+        width: 100%;
+    }
+    .section-3 .col-one{
+        justify-content: flex-start;
+    }
+    .section-3 .row .header-prog{
+        margin: 50px 0;
+        font-size: 39px;
+    }
+    /*section-3:END*/
+    /*section-4 and 5:START*/
+    .section-4 .col-12{
+        margin-top:0px;
+    }
+    .section-4{
+        margin-top: -22px;
+        width:65%;
+    }
+    .section-4 .row-tag{
+        width:100%;
+        display:flex;
+        justify-content: center;
+    }
+    .section-4 .button-one{
+        justify-content: space-evenly;
+    }
+    .section-4 .button-one p{
+        font-size: 11px;
+    }
+    .section-4 .button-two{
+        justify-content: space-between;
+    }
+    .section-4 .button-two p{
+        font-size: 11px;
+    }
+    .section-4 .button-two{
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .section-5 .make-center .text-4{
+        padding: 57px 0px 0px 0px;
+        margin-bottom: 0px;
+        font-size: 15px;
+
+    }
+    .section-5 .make-center .text-four:last-child{
+
+        font-size: 23px;
+
+        margin-bottom: 0px;
+        padding: 2px 0px 127px 0px;
+    }
+    /*section-4 and 5:END*/
+    /*section-6:START*/
+    .section-6 .col-one:last-child {
+        padding-right: 0px;
+        MARGIN-BOTTOM: 53px;
+    }
+    .section-6{
+        height:100%;
+        padding-bottom: 30px;
+    }
+    .section-6 .container{
+        height:100%;
+    }
+    .section-6 .row .header-prog{
+        font-size: 25px;
+        margin: 49px 0px;
+    }
+    .section-6 .row {
+        display: flex;
+        justify-content: center;
+    }
+    .section-6 .col-one:not(:first-child){
+        margin-top: 0px;
+    }
+    .section-6 .col-one img {
+
+    }
+    .section-6 .col-one h2{
+        font-size: 14.6px;
+    }
+    .section-6 .col-one p{
+        font-size: 10.5px;
+    }
+    .section-6 .row:nth-child(2) .col-sm-2{
+        flex: 0 0 29.66667%;
+        max-width: 33.33333%;
+    }
+
+    /*section-6:END*/
+    /*section-7 AND 8:START*/
+    .section-7{
+        width:65%;
+        margin-top: -22px;
+    }
+    .section-7 .col-12{
+        margin-top:0px;
+
+    }
+
+    .section-7 .row-tag{
+        width:100%;
+        display:flex;
+        justify-content: center;
+    }
+    .section-7 .button-one p{
+        font-size: 9px;
+    }
+    .section-7 .button-two p{
+        font-size: 9px;
+    }
+    .section-7 .button-two{
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .section-7 .button-one{
+        margin-left: 0px;
+    }
+    .section-8 .make-center .text-4{
+        padding: 57px 0px 0px 0px;
+        margin-bottom: 0px;
+        font-size: 15px;
+
+    }
+    .section-8 .make-center .text-four:last-child{
+
+        font-size: 23px;
+
+        margin-bottom: 0px;
+        padding: 2px 0px 127px 0px;
+    }
+    /*section-7 AND 8:END*/
+    /*section-9:START*/
+    .section-9{
+        height:100%;
+        padding-bottom:9%;
+    }
+    .section-9 .container{
+        height:100%;
+    }
+    .section-9 .row .header-prog{
+        font-size: 25px;
+        margin: 49px 0px;
+    }
+    .section-9 .row:nth-child(2) .col-sm-2{
+        flex: 0 0 29.66667%;
+        max-width: 33.33333%;
+    }
+    .section-9 .row {
+        display: flex;
+        justify-content: center;
+    }
+    .section-9 .col-one:not(:first-child){
+
+    }
+    .section-9 .col-one img {
+
+    }
+    .section-9 .col-one h2{
+
+    }
+    /*section-9:END*/
+    /*section-10:START*/
+    .section-10 .container .row {
+        width: 58%;
+    }
+    .section-10 .container .row .col-12{
+        padding: 22px 4px;
+    }
+    .section-10 .container .row .col-12 p{
+        font-size: 8px;
+    }
+    /*section-10:END*/
+}
 
 
 
