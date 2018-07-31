@@ -1387,10 +1387,11 @@ color: #0912CD;
     }
     .section-2 .col-8 .inside-pspan{
         margin-right: 0%;
-        margin-top: 0%;
+        margin-top: 4%;
         margin-bottom: -19px;
         margin-left: 0px;
         width: 60%;
+        font-size: 11px;
     }
 
     /*section-2:END*/
