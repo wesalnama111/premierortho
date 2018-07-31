@@ -85,7 +85,7 @@ p{
     height: 671px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center top;
     display:flex;
     flex-direction: column;
     justify-content: center;
