@@ -84,6 +84,7 @@ p{
     width: auto;
     height: 671px;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
     background-position: center top;
     display:flex;
@@ -244,7 +245,7 @@ color: #0912CD;
 /*section-2:END*/
 /*section-3:START*/
 .section-3{
-    height: 560px;
+    height: 100%;
     margin-bottom: 50px;
 
 }
@@ -346,10 +347,12 @@ color: #0912CD;
     background-repeat:no-repeat;
 
     background-size:cover;
+    background-position: center top;
     display:flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-attachment: fixed;
 }
 .section-5 .make-center{
     display: flex;
@@ -393,11 +396,12 @@ color: #0912CD;
 /*section-5:END*/
 /*section-6:START*/
 .section-6{
-    height: 560px;
+        padding-bottom: 40px;
+    height: 100%;
     background: linear-gradient(313deg, #04b3fc, #1171ad);
 }
 .section-6 .container{
-    height: 560px;
+    height: 100%;
 
 }
 
@@ -497,7 +501,8 @@ color: #0912CD;
     height: 100%;
     background-image: url('../Assets/handsback.png');
     background-repeat:no-repeat;
-
+    background-attachment: fixed;
+    background-position: center;
     background-size:cover;
     display:flex;
     flex-direction: column;
@@ -545,9 +550,11 @@ color: #0912CD;
 /*section-8:END*/
 /*section-9:START*/
 .section-9{
-    height: 590px;
+    height: 100%;
+
     mix-blend-mode: multiply;
     background-image: linear-gradient(53deg, #04b3fc, #1171ad);
+    padding-bottom: 72px;
 }
 .section-9 .row .header-prog{
     opacity: 0.39;
@@ -621,7 +628,7 @@ color: #0912CD;
 /*section-10:START*/
 .section-10{
     background-color: #0095D1;
-    height:70px;
+    height:100%;
 }
 .section-10 .container{
     display: flex;
