@@ -98,7 +98,11 @@ p{
     align-items: center;
 }
 .section-1 .col-12.for-bottom-border{
+    
+}
+.section-1 .for-bottom-border-section-1{
     border-bottom: 5px solid #06B6FD;
+    width:100%;
 }
 .section-1 .for-flex .for-bottom-border  h1{
     font-family:  'PT Serif Caption', serif;
@@ -396,7 +400,7 @@ color: #0912CD;
 /*section-5:END*/
 /*section-6:START*/
 .section-6{
-        padding-bottom: 40px;
+        padding-bottom: 70px;
     height: 100%;
     background: linear-gradient(313deg, #04b3fc, #1171ad);
 }
