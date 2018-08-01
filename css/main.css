@@ -127,7 +127,7 @@ p{
 }
 .section-1 .for-flex p{
     object-fit: contain;
-    font-family: PTSans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     font-weight: normal;
     font-style: italic;
@@ -141,7 +141,7 @@ p{
     margin-bottom: 0px;
 }
 .section-1 .needs-width .p-tag p{
-    font-family: PTSans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     font-weight: bold;
     font-style: normal;
@@ -244,11 +244,12 @@ color: #0912CD;
 /*section-3:START*/
 .section-3{
     height: 560px;
+    margin-bottom: 50px;
 
 }
 .section-3 .row .header-prog{
     opacity: 0.21;
-    font-family: OpenSans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 48px;
     font-weight: normal;
     font-style: normal;
@@ -355,26 +356,31 @@ color: #0912CD;
     align-items: center;
 }
 .section-5 .make-center .text-4 {
-    text-align: center;
-    font-family: OpenSans;
-    font-size: 24px;
+    font-size: 27px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: italic;
     font-stretch: normal;
     line-height: 1.67;
     letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
     padding: 117px 0px 0px 27px;
     margin-bottom: 0px;
 }
 .section-5 .make-center .text-four:last-child{
-    text-align: center;
-    font-family: OpenSans;
-    font-size: 25px;
+
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: italic;
     font-stretch: normal;
     line-height: 1.67;
     letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
 
     margin-bottom: 0px;
     padding: 27px 0px 119px 27px;
@@ -396,7 +402,7 @@ color: #0912CD;
 
 .section-6 .row .header-prog{
     opacity: 0.39;
-    font-family: OpenSans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 48px;
     font-weight: normal;
     font-style: normal;
@@ -504,25 +510,31 @@ color: #0912CD;
 }
 .section-8 .make-center .text-4 {
     text-align: center;
-    font-family: OpenSans;
-    font-size: 24px;
+    font-size: 27px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: italic;
     font-stretch: normal;
     line-height: 1.67;
     letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+
     padding: 117px 0px 0px 27px;
     margin-bottom: 0px;
 }
 .section-8 .make-center .text-four:last-child{
-    text-align: center;
-    font-family: OpenSans;
-    font-size: 25px;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: italic;
     font-stretch: normal;
     line-height: 1.67;
     letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
 
     margin-bottom: 0px;
     padding: 27px 0px 119px 27px;
@@ -538,7 +550,7 @@ color: #0912CD;
 }
 .section-9 .row .header-prog{
     opacity: 0.39;
-    font-family: OpenSans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 48px;
     font-weight: normal;
     font-style: normal;
@@ -573,7 +585,7 @@ color: #0912CD;
     align-items: center;
 }
 .section-9 .col-one p{
-    font-family: OpenSans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 10.5px;
     font-weight: normal;
     font-style: italic;
@@ -584,7 +596,7 @@ color: #0912CD;
     color: #ffffff;
 }
 .section-9 .col-one h6{
-    font-family: OpenSans;
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     font-weight: 600;
     font-style: normal;
