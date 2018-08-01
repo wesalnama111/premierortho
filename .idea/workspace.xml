@@ -4,6 +4,7 @@
     <list default="true" id="21bc30ea-fb07-42d9-9af6-ec5c722e2521" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,25 +16,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="315" column="29" lean-forward="false" selection-start-line="315" selection-start-column="29" selection-end-line="315" selection-end-column="29" />
-              <folding>
-                <element signature="e#14080#18455#0" expanded="false" />
-                <element signature="e#18456#22802#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="172">
+              <caret line="85" column="35" lean-forward="false" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="294" column="58" lean-forward="false" selection-start-line="294" selection-start-column="58" selection-end-line="294" selection-end-column="58" />
-              <folding />
+            <state relative-caret-position="427">
+              <caret line="241" column="45" lean-forward="false" selection-start-line="241" selection-start-column="45" selection-end-line="241" selection-end-column="45" />
+              <folding>
+                <element signature="e#14092#18467#0" expanded="false" />
+                <element signature="e#18468#22814#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,10 +43,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.section-9 .col-one</find>
-      <find>.section-8</find>
-      <find>.section-3 .col-one</find>
-      <find>.section-1 .needs-width .p-tag:first-child</find>
       <find>.section-7 .button-one</find>
       <find>.section-4 .button-one</find>
       <find>PTsans</find>
@@ -68,15 +65,21 @@
       <find>open</find>
       <find>.section-5 .make-center .text-4</find>
       <find>.section-8 .make-center .text-4</find>
-      <find>ADIE A. THORP</find>
       <find>.section-5 .make-center .text-four:last-child</find>
       <find>.section-3</find>
       <find>.section-4 .button-two</find>
+      <find>ADIE A. THORP</find>
+      <find>'open sans', sans-serif</find>
+      <find>'pt sans', sans-serif;</find>
+      <find>.section-1 .for-flex .for-bottom-border h1</find>
+      <find>APPOINTMENTS IN 48 HOURS</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>'Open Sans', sans-serif</replace>
       <replace>serif</replace>
+      <replace>'PT Sans', sans-serif</replace>
+      <replace>'PT Sans', sans-serif;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -144,7 +147,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Assets" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -243,12 +246,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532970392345</updated>
-      <workItem from="1532970393922" duration="47669000" />
+      <workItem from="1532970393922" duration="50262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47669000" />
+    <option name="totallyTimeSpent" value="50262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -313,19 +316,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="294" column="58" lean-forward="false" selection-start-line="294" selection-start-column="58" selection-end-line="294" selection-end-column="58" />
+        <state relative-caret-position="172">
+          <caret line="85" column="35" lean-forward="false" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="315" column="29" lean-forward="false" selection-start-line="315" selection-start-column="29" selection-end-line="315" selection-end-column="29" />
+        <state relative-caret-position="427">
+          <caret line="241" column="45" lean-forward="false" selection-start-line="241" selection-start-column="45" selection-end-line="241" selection-end-column="45" />
           <folding>
-            <element signature="e#14080#18455#0" expanded="false" />
-            <element signature="e#18456#22802#0" expanded="false" />
+            <element signature="e#14092#18467#0" expanded="false" />
+            <element signature="e#18468#22814#0" expanded="false" />
           </folding>
         </state>
       </provider>

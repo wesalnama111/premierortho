@@ -100,7 +100,7 @@ p{
     border-bottom: 5px solid #06B6FD;
 }
 .section-1 .for-flex .for-bottom-border  h1{
-    font-family:  'Open Sans', sans-serif;
+    font-family:  'PT Serif Caption', serif;
     font-size: 36px;
     font-weight: normal;
     font-style: normal;
@@ -113,7 +113,7 @@ p{
     -webkit-text-stroke: 1px #ffffff;
 }
 .section-1 .for-flex  h1{
-    font-family:  'Open Sans', sans-serif;
+    font-family:  'PT Serif Caption', serif;
     font-size: 46px;
     font-weight: normal;
     font-style: normal;
@@ -127,7 +127,7 @@ p{
 }
 .section-1 .for-flex p{
     object-fit: contain;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 15px;
     font-weight: normal;
     font-style: italic;
@@ -141,7 +141,7 @@ p{
     margin-bottom: 0px;
 }
 .section-1 .needs-width .p-tag p{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 15px;
     font-weight: bold;
     font-style: normal;
@@ -205,7 +205,7 @@ color: #0912CD;
 }
 
 .section-2 .col-8 .section2-afterimage{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 22px;
     font-weight: normal;
     font-style: italic;
@@ -229,7 +229,7 @@ color: #0912CD;
     background-color: #F9B148;
     height:45px;
     width:300px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 15px;
     font-weight: bold;
     font-style: normal;
@@ -239,6 +239,7 @@ color: #0912CD;
     text-align: center;
     color: #ffffff;
     text-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
+    box-shadow:0 3px 11px rgba(0, 0, 0, 0.5);
 }
 /*section-2:END*/
 /*section-3:START*/
@@ -249,7 +250,7 @@ color: #0912CD;
 }
 .section-3 .row .header-prog{
     opacity: 0.21;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 48px;
     font-weight: normal;
     font-style: normal;
@@ -269,7 +270,7 @@ color: #0912CD;
     height:80px;
 }
 .section-3 .col-one h2{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 18.6px;
     font-weight: bold;
     font-style: normal;
@@ -285,7 +286,7 @@ color: #0912CD;
     margin: 6px 0;
 }
 .section-3 .col-one p{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 12.5px;
     font-weight: normal;
     font-style: normal;
@@ -357,7 +358,7 @@ color: #0912CD;
 }
 .section-5 .make-center .text-4 {
     font-size: 27px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: italic;
@@ -372,7 +373,7 @@ color: #0912CD;
 .section-5 .make-center .text-four:last-child{
 
     font-size: 15px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: italic;
@@ -402,7 +403,7 @@ color: #0912CD;
 
 .section-6 .row .header-prog{
     opacity: 0.39;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 48px;
     font-weight: normal;
     font-style: normal;
@@ -423,7 +424,7 @@ color: #0912CD;
     height: 80px;
 }
 .section-6 .col-one h2{
-    font-family:'Open Sans', sans-serif;
+    font-family:'PT Sans', sans-serif;
     font-size: 18.6px;
     font-weight: bold;
     font-style: normal;
@@ -437,7 +438,7 @@ color: #0912CD;
     align-items: center;
 }
 .section-6 .col-one p{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 12.5px;
     font-weight: normal;
     font-style: normal;
@@ -511,7 +512,7 @@ color: #0912CD;
 .section-8 .make-center .text-4 {
     text-align: center;
     font-size: 27px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: italic;
@@ -526,7 +527,7 @@ color: #0912CD;
 }
 .section-8 .make-center .text-four:last-child{
     font-size: 15px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-style: italic;
@@ -550,7 +551,7 @@ color: #0912CD;
 }
 .section-9 .row .header-prog{
     opacity: 0.39;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 48px;
     font-weight: normal;
     font-style: normal;
@@ -571,7 +572,7 @@ color: #0912CD;
     height:70px;
 }
 .section-9 .col-one h2{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 18.6px;
     font-weight: bold;
     font-style: normal;
@@ -585,7 +586,7 @@ color: #0912CD;
     align-items: center;
 }
 .section-9 .col-one p{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 10.5px;
     font-weight: normal;
     font-style: italic;
@@ -596,7 +597,7 @@ color: #0912CD;
     color: #ffffff;
 }
 .section-9 .col-one h6{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 12px;
     font-weight: 600;
     font-style: normal;
@@ -649,7 +650,7 @@ color: #0912CD;
     justify-content: center;
     align-items: center;
     margin-bottom: 0px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     font-size: 15px;
     font-weight: bold;
     font-style: normal;
