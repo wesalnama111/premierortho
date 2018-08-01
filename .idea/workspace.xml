@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21bc30ea-fb07-42d9-9af6-ec5c722e2521" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/handsback.png" afterPath="$PROJECT_DIR$/Assets/handsback.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/physical.png" afterPath="$PROJECT_DIR$/Assets/physical.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +18,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="246" column="24" lean-forward="false" selection-start-line="246" selection-start-column="24" selection-end-line="246" selection-end-column="24" />
+            <state relative-caret-position="189">
+              <caret line="315" column="29" lean-forward="false" selection-start-line="315" selection-start-column="29" selection-end-line="315" selection-end-column="29" />
               <folding>
                 <element signature="e#14080#18455#0" expanded="false" />
                 <element signature="e#18456#22802#0" expanded="false" />
@@ -57,7 +54,6 @@
       <find>.section-1 .for-flex h1</find>
       <find>section-8</find>
       <find>left-attached-buttons</find>
-      <find>.section-4 .button-two</find>
       <find>.section-1 .needs-width .p-tag:last-child</find>
       <find>.section-2 .col-8 .inside-pspan</find>
       <find>.section-6</find>
@@ -75,6 +71,7 @@
       <find>ADIE A. THORP</find>
       <find>.section-5 .make-center .text-four:last-child</find>
       <find>.section-3</find>
+      <find>.section-4 .button-two</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -246,12 +243,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532970392345</updated>
-      <workItem from="1532970393922" duration="46574000" />
+      <workItem from="1532970393922" duration="47669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46574000" />
+    <option name="totallyTimeSpent" value="47669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -324,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="246" column="24" lean-forward="false" selection-start-line="246" selection-start-column="24" selection-end-line="246" selection-end-column="24" />
+        <state relative-caret-position="189">
+          <caret line="315" column="29" lean-forward="false" selection-start-line="315" selection-start-column="29" selection-end-line="315" selection-end-column="29" />
           <folding>
             <element signature="e#14080#18455#0" expanded="false" />
             <element signature="e#18456#22802#0" expanded="false" />

@@ -313,7 +313,7 @@ color: #0912CD;
     margin-bottom: 0px;
 }
 .section-4 .button-two{
-    background-color: #02b4fd;
+    background-color: #03D8FD;
     height: 45px;
     display: flex;
     align-items: center;
@@ -1199,7 +1199,7 @@ color: #0912CD;
         font-size: 11px;
     }
     .section-4 .button-two{
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
     .section-4 .button-two p{
         font-size: 11px;
@@ -1455,13 +1455,13 @@ color: #0912CD;
         margin-top: -21px;
     }
     .section-4 .button-one{
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
     .section-4 .button-one p{
         font-size: 11px;
     }
     .section-4 .button-two{
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
     .section-4 .button-two p{
         font-size: 11px;
@@ -1730,7 +1730,7 @@ color: #0912CD;
         font-size: 11px;
     }
     .section-4 .button-two{
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
     .section-4 .button-two p{
         font-size: 11px;
@@ -2271,7 +2271,7 @@ color: #0912CD;
         font-size: 11px;
     }
     .section-4 .button-two{
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
     .section-4 .button-two p{
         font-size: 11px;
